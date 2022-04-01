@@ -185,10 +185,29 @@
                     "description": "A fast and easily customised operating system for ARM devices",
                     "icon": "https://packages.riscosopen.org/rpi_imager/RISC_OS.png",
                     "subitems_url": "https://packages.riscosopen.org/rpi_imager/os_list_imagingutility.json"
-                }
+                }   
             ]
         },
         {
+            "name": "Android OS",
+            "description": "Android OS for Raspberry Pi",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/android.png",
+            "subitems": [
+                {
+                    "name": "PrimeOS 2.1.0 (Pi 4/400)",
+                    "description": "Desktop Android for raspberry Pi 4",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/prime.png",
+                    "url": "https://sourceforge.net/projects/primeos/files/latest/download/PrimeOS-2.1.0-20220304-Raspberry-Pi4.zip",
+                    "extract_size": 8589934592,
+                    "extract_sha256": "6c66040981c90fc2b2da5ac91d18670f7705d78824be8a9d65ae0709cf5fa509",
+                    "image_download_size": 937938993,
+                    "release_date": "2022-03-04",
+                    "image_download_sha256": "d9cdf8991c6bcf79eeddeecdfb9d7da4702940f9f5bc4cb4d97930a7742ea063",
+                    "website": "https://www.primeos.in/download"
+                }   
+             ]  
+          },
+          {
             "name": "Media player OS",
             "description": "Media player operating systems",
             "icon": "icons/cat_media_players.png",
