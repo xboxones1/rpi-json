@@ -144,6 +144,12 @@
                     "website": "https://www.apertis.org/"
                 },
                 {
+                    "name": "ALT",
+                    "description": "Russian language-specific operating system",
+                    "icon": "https://getalt.org/raspi/logo-alt-ext.png",
+                    "subitems_url": "https://getalt.org/raspi/os_list_imagingutility_alt.json"
+                },
+                {
                     "name": "RISC OS Pi",
                     "description": "A fast and easily customised operating system for ARM devices",
                     "icon": "https://packages.riscosopen.org/rpi_imager/RISC_OS.png",
