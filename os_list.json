@@ -131,6 +131,37 @@
                 ]
                 },
                 {
+                    "name": "Kali Linux",
+                    "description": "The most advanced Penetration Testing Distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "subitems": [
+                {
+                    "name": "Kali Linux 2022.1 (Pi 2 (1.2)/3/4/400)",
+                    "description": "64-bit desktop OS",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "url": "https://kali.download/arm-images/kali-2022.1/kali-linux-2022.1-raspberry-pi-arm64.img.xz",
+                    "extract_size": 11811160064,
+                    "extract_sha256": "48ac9cae034d427caf712c33c2618947300050a87cf29b098b33d81da238802d",
+                    "image_download_size": 2104617236,
+                    "release_date": "2022-02-09",
+                    "image_download_sha256": "9ef1a0c011c274a81baaa626206ec985e1caa9494dab2b88ecec0a2473d6cf1f",
+                    "website": "https://www.kali.org/get-kali/#kali-arm"
+                },
+                {
+                    "name": "Kali Linux 2022.1 (Pi 2/3/4/400)",
+                    "description": "32-bit desktop OS",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "url": "https://kali.download/arm-images/kali-2022.1/kali-linux-2022.1-raspberry-pi-armhf.img.xz",
+                    "extract_size": 10021590357,
+                    "extract_sha256": "343c115b2ca6b89ca31160ad8a2c2267ba73e1afc55866bdbbe7a5119ad58419",
+                    "image_download_size": 2078286260,
+                    "release_date": "2022-02-09",
+                    "image_download_sha256": "fa742f16f565d35f932023853a52143786baa7273722a5b1b9a6c77f30061c77",
+                    "website": "https://www.kali.org/get-kali/#kali-arm"
+                }
+                ]
+                },
+                {
                     "name": "Manjaro ARM Linux",
                     "description": "Semi-rolling distribution for desktop and server use",
                     "icon": "https://www.strits.dk/images/40x40.png",
