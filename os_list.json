@@ -253,6 +253,61 @@
                     "subitems_url": "https://upgrade.recalbox.com/latest/rpi-imager/os_list_imagingutility_recalbox.json"
                 },
                 {
+                    "name": "Batocera.linux",
+                    "description": "Open-source retro-gaming distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
+                    "subitems": [
+                {
+                    "name": "Batocera 33 (Pi 4/400)",
+                    "description": "Open-source retro-gaming distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
+                    "url": "https://updates.batocera.org/rpi464/stable/last/batocera-rpi4-33-20220203.img.gz",
+                    "extract_size": 3759144960,
+                    "extract_sha256": "c3df1e308d6a5ce8cb4dd9fe1bf2e0cc0546bd8dd60fe958949e8f77fc08d665",
+                    "image_download_size": 1247526899,
+                    "release_date": "2022-02-03",
+                    "image_download_sha256": "b6abf8a3f1bd196aed7dd27587693c0253822ebf9f88c080e40fff6a068d5e20",
+                    "website": "https://batocera.org/download"
+                },
+                {
+                    "name": "Batocera 32 (Pi 3)",
+                    "description": "Open-source retro-gaming distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
+                    "url": "https://updates.batocera.org/rpi3/stable/last/batocera-rpi3-32-20210926.img.gz",
+                    "extract_size": 3759144960,
+                    "extract_sha256": "df0196858a53c75de3e6dae7078defc5fe35a5de078ad12f72632a6ad24130a7",
+                    "image_download_size": 1065683648,
+                    "release_date": "2021-09-26",
+                    "image_download_sha256": "3619e5b675964a0be3849b7efea33d52daf0f0f7c14069b94fd0e521678d94b5",
+                    "website": "https://batocera.org/download"
+                },
+                {
+                    "name": "Batocera 30 (Pi 2)",
+                    "description": "Open-source retro-gaming distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
+                    "url": "https://updates.batocera.org/rpi2/stable/last/images/batocera-rpi2-30-20210302.img.gz",
+                    "extract_size": 3495952384,
+                    "extract_sha256": "e3cb971fab078c557889c5b118e529733af4afa93fd680228db39cfc328b57c0",
+                    "image_download_size": 782873590,
+                    "release_date": "2021-03-02",
+                    "image_download_sha256": "2cb1aa5283a57544f7d5b048b83e9ccbc53ebdaedbf6d73171bbb0c77246a049",
+                    "website": "https://batocera.org/download"
+                },
+                {
+                    "name": "Batocera 33 (Pi 1)",
+                    "description": "Open-source retro-gaming distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
+                    "url": "https://updates.batocera.org/rpi1/stable/last/batocera-rpi1-33-20220203.img.gz",
+                    "extract_size": 3759144960,
+                    "extract_sha256": "63ba877792153f16903808c45822e3b0dadd5a1d62e3bf42d95c957310892285",
+                    "image_download_size": 886313732,
+                    "release_date": "2022-02-03",
+                    "image_download_sha256": "0c63e668c598d7db91f3daf7989c6453cd487ee1a06104e67b844404cccab3a5",
+                    "website": "https://batocera.org/download"
+                }
+                ]
+                },
+                {
                     "name": "Lakka",
                     "description": "The DIY retro emulation console",
                     "icon": "https://nightly.builds.lakka.tv/.rpi-imager/icon.png",
