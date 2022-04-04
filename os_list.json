@@ -253,7 +253,7 @@
                     "subitems_url": "https://upgrade.recalbox.com/latest/rpi-imager/os_list_imagingutility_recalbox.json"
                 },
                 {
-                    "name": "Batocera.linux",
+                    "name": "Batocera",
                     "description": "Open-source retro-gaming distribution",
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/batocera.png",
                     "subitems": [
