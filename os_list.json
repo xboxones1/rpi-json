@@ -1,6 +1,6 @@
 {
     "imager": {
-        "latest_version": "1.7.1",
+        "latest_version": "1.7.2",
         "url": "https://www.raspberrypi.org/software/"
     },
     "os_list": [
@@ -8,11 +8,11 @@
             "name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian Bullseye with the Raspberry Pi Desktop (Recommended)",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf.zip",
-            "extract_size": 4236247040,
-            "extract_sha256": "ceb7d7489847ed811e7746fa779837f78fc06d43663148a696280e6a1cfe00e3",
-            "image_download_size": 1306588543,
-            "release_date": "2022-01-28",
+            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf.img.xz",
+            "extract_size": 4324327424,
+            "extract_sha256": "5de7c7a0d08ab575d4246ec585419278a6fb79752df6416a448711b755bb742a",
+            "image_download_size": 877875272,
+            "release_date": "2022-04-04",
             "init_format": "systemd"
         },
         {
@@ -24,66 +24,66 @@
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian Bullseye with no desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip",
-                    "extract_size": 2009071616,
-                    "extract_sha256": "63bb13985d8e70b40428cbc0ed0d91d5b49c2b11f09c0ff477ef3a0b5aa943e4",
-                    "image_download_size": 505179990,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf-lite.img.xz",
+                    "extract_size": 2017460224,
+                    "extract_sha256": "da9d8cecd132cb630bee2f2b744c136f3a6ba260fb51e027bb11b17dfed2cca5",
+                    "image_download_size": 310991552,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 },
                 {
                     "name": "Raspberry Pi OS Full (32-bit)",
                     "description": "A port of Debian Bullseye with desktop environment and recommended applications",
                     "icon": "https://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-full.zip",
-                    "extract_size": 9760145408,
-                    "extract_sha256": "92de5424802639bab27b5c6e4116c47a0cc49e9465f24aec9cd3b75a23ba995e",
-                    "image_download_size": 3425721950,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf-full.img.xz",
+                    "extract_size": 9827254272,
+                    "extract_sha256": "05e57c4ba15822bc925781e5434e271a997c24cd3bf44c9e06e51a2a7b182b54",
+                    "image_download_size": 2387672048,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 },
                 {
                     "name": "Raspberry Pi OS (64-bit)",
                     "description": "A port of Debian Bullseye with the Raspberry Pi Desktop (Compatible with Raspberry Pi 3/4/400)",
                     "icon": "https://downloads.raspberrypi.org/raspios_arm64/Raspberry_Pi_OS_(64-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64.zip",
-                    "extract_size": 4156555264,
-                    "extract_sha256": "6939d39cbbfbe85c68dae55f1b2375f17e21fe047b8dc1f84aa7d3c002047afb",
-                    "image_download_size": 1189750489,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-04-07/2022-04-04-raspios-bullseye-arm64.img.xz",
+                    "extract_size": 4248829952,
+                    "extract_sha256": "0f59c7e72a5bb9a1cae768b3600dbc15f6d64e709eb49390492c4ac980dc0164",
+                    "image_download_size": 793763188,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (64-bit)",
                     "description": "A port of Debian Bullseye with no desktop environment (Compatible with Raspberry Pi 3/4/400)",
                     "icon": "https://downloads.raspberrypi.org/raspios_lite_arm64/Raspberry_Pi_OS_Lite_(64-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64-lite.zip",
-                    "extract_size": 1996488704,
-                    "extract_sha256": "27acde389d19d7925d2c3e8ef42dcd70169795ae5d5e6e2cef616347a5caf406",
-                    "image_download_size": 455883729,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-04-07/2022-04-04-raspios-bullseye-arm64-lite.img.xz",
+                    "extract_size": 2000683008,
+                    "extract_sha256": "b3ac783cecc9fc5445e164eca4d27b87a7cb461ade4618943624ed9984db0088",
+                    "image_download_size": 283509852,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 },
                 {
                     "name": "Raspberry Pi OS (Legacy)",
                     "description": "A port of Debian Buster with security updates and desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2022-01-28/2022-01-28-raspios-buster-armhf.zip",
-                    "extract_size": 3741319168,
-                    "extract_sha256": "c81a009c13b393a70a80dd55ddb7c5e80bf6a2e7b4857aa553f7b642d8e5b2cd",
-                    "image_download_size": 1170645497,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2022-04-07/2022-04-04-raspios-buster-armhf.img.xz",
+                    "extract_size": 3745513472,
+                    "extract_sha256": "9b53acd43ee250ae1599c5b5e3859bfcaca9402a49995143007a37eca1781b3b",
+                    "image_download_size": 787583352,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 },
                 {
                     "name": "Raspberry Pi OS Lite (Legacy)",
                     "description": "A port of Debian Buster with security updates and no desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-01-28/2022-01-28-raspios-buster-armhf-lite.zip",
-                    "extract_size": 1891631104,
-                    "extract_sha256": "238fd261b8156694115f59b293e19b96aedc1fadf1fec964ea65546f08c128ec",
-                    "image_download_size": 472885109,
-                    "release_date": "2022-01-28",
+                    "url": "https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-04-07/2022-04-04-raspios-buster-armhf-lite.img.xz",
+                    "extract_size": 1895825408,
+                    "extract_sha256": "20463d6b277c0219e455211d1fc08f51c6712f588ab294a8c6c6aabe9c9ad186",
+                    "image_download_size": 297838444,
+                    "release_date": "2022-04-04",
                     "init_format": "systemd"
                 }
             ]
@@ -322,11 +322,11 @@
             "icon": "icons/cat_other_specific_purpose_operating_systems.png",
             "subitems": [
                 {
-                   "name": "3D printing",
-                   "description": "3D printer operating systems",
-                   "icon": "icons/cat_3d_printing.png",
-                   "random": true,
-                   "subitems": [
+                    "name": "3D printing",
+                    "description": "3D printer operating systems",
+                    "icon": "icons/cat_3d_printing.png",
+                    "random": true,
+                    "subitems": [
                         {
                             "name": "OctoPi",
                             "description": "A Raspberry Pi distribution for 3D printers. Ships OctoPrint out-of-the-box.",
@@ -358,12 +358,12 @@
                     ]
                 },
                 {
-                   "name": "Home assistants and home automation",
-                   "description": "Home assistant and home automation operating systems",
-                   "icon": "icons/cat_home_automation.png",
-                   "random": true,
-                   "subitems": [
-                       {
+                    "name": "Home assistants and home automation",
+                    "description": "Home assistant and home automation operating systems",
+                    "icon": "icons/cat_home_automation.png",
+                    "random": true,
+                    "subitems": [
+                        {
                             "name": "Homebridge",
                             "description": "Turn your Raspberry Pi into a HomeKit smart home bridge.",
                             "icon": "https://user-images.githubusercontent.com/3979615/116509191-3c35f880-a906-11eb-9a7f-7cad7c2aa641.png",
@@ -386,7 +386,7 @@
                             "name": "nymea",
                             "description": "Smart Home/IoT platform, easy to use, open-source and privacy-focused.",
                             "icon": "https://raw.githubusercontent.com/nymea/nymea/master/icons/nymea-logo-48x48.png",
-                            "subitems_url": "http://downloads.nymea.io/images/raspberrypi/rpi-image-repo.json",
+                            "subitems_url": "https://downloads.nymea.io/images/raspberrypi/rpi-image-repo.json",
                             "website": "https://nymea.io/users"
                         },
                         {
