@@ -136,27 +136,27 @@
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
                     "subitems": [
                 {
-                    "name": "Kali Linux 2022.1 (Pi 2 (1.2)/3/4/400)",
+                    "name": "Kali Linux 2022.2 (Pi 2 (1.2)/3/4/400)",
                     "description": "64-bit desktop OS",
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
-                    "url": "https://kali.download/arm-images/kali-2022.1/kali-linux-2022.1-raspberry-pi-arm64.img.xz",
+                    "url": "https://kali.download/arm-images/kali-2022.2/kali-linux-2022.2-raspberry-pi-arm64.img.xz",
                     "extract_size": 11811160064,
-                    "extract_sha256": "48ac9cae034d427caf712c33c2618947300050a87cf29b098b33d81da238802d",
-                    "image_download_size": 2104617236,
-                    "release_date": "2022-02-09",
-                    "image_download_sha256": "9ef1a0c011c274a81baaa626206ec985e1caa9494dab2b88ecec0a2473d6cf1f",
+                    "extract_sha256": "6d1bda5cd8196723b9df38ab75762a0e2a0c1b8623d7cb1f20775d08c73f3a96",
+                    "image_download_size": 2121501880,
+                    "release_date": "2022-05-16",
+                    "image_download_sha256": "84fd1af2ff8e8dfeee75e37691daee284920c48b03e6cdbb4d04784f1810d151",
                     "website": "https://www.kali.org/get-kali/#kali-arm"
                 },
                 {
-                    "name": "Kali Linux 2022.1 (Pi 2/3/4/400)",
+                    "name": "Kali Linux 2022.2 (Pi 2/3/4/400)",
                     "description": "32-bit desktop OS",
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
-                    "url": "https://kali.download/arm-images/kali-2022.1/kali-linux-2022.1-raspberry-pi-armhf.img.xz",
-                    "extract_size": 10021590357,
-                    "extract_sha256": "343c115b2ca6b89ca31160ad8a2c2267ba73e1afc55866bdbbe7a5119ad58419",
-                    "image_download_size": 2078286260,
-                    "release_date": "2022-02-09",
-                    "image_download_sha256": "fa742f16f565d35f932023853a52143786baa7273722a5b1b9a6c77f30061c77",
+                    "url": "https://kali.download/arm-images/kali-2022.2/kali-linux-2022.2-raspberry-pi-armhf.img.xz",
+                    "extract_size": 10200547328,
+                    "extract_sha256": "b02dc722f2c788f729c7c46c87f66d3412d91b36037327d68459014bf51d52a8",
+                    "image_download_size": 2098629992,
+                    "release_date": "2022-05-16",
+                    "image_download_sha256": "29bd338d69c32d002a50043ef02567713e5bff19a866e5e8811d03c7fe74a903",
                     "website": "https://www.kali.org/get-kali/#kali-arm"
                 }
                 ]
