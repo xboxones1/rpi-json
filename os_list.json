@@ -10,12 +10,39 @@
             "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/desktop.png",
             "subitems": [
                 {
+                    "name": "Ubuntu",
+                    "description": "Choose from Ubuntu Desktop, Server images",
+                    "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+                    "subitems": [
+                {
+                    "name": "Ubuntu 22.04 LTS Jammy",
+                    "description": "64-bit desktop OS",
+                    "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+                    "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.iso",
+                    "image_download_size": 3654957056,
+                    "release_date": "2022-04-19",
+                    "image_download_sha256": "b85286d9855f549ed9895763519f6a295a7698fb9c5c5345811b3eefadfb6f07",
+                    "website": "https://releases.ubuntu.com/22.04"
+                },
+                {
+                    "name": "Ubuntu 22.04 LTS Server Jammy",
+                    "description": "64-bit server OS",
+                    "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+                    "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04-live-server-amd64.iso",
+                    "image_download_size": 1466714112,
+                    "release_date": "2022-04-19",
+                    "image_download_sha256": "84aeaf7823c8c61baa0ae862d0a06b03409394800000b3235854a6b38eb4856f",
+                    "website": "https://releases.ubuntu.com/22.04"    
+                }
+                ]    
+                },
+                {
                     "name": "Ubuntu Mate",
                     "description": "For a retrospective future",
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
                     "subitems": [
                 {
-                    "name": "Ubuntu Mate 22.04",
+                    "name": "Ubuntu Mate 22.04 LTS Jammy",
                     "description": "64-bit desktop OS",
                     "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
                     "url": "https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/release/ubuntu-mate-22.04-desktop-amd64.iso",
@@ -23,12 +50,39 @@
                     "release_date": "2022-03-29",
                     "image_download_sha256": "c441ba839ccaff67e27c15423da006dc7b708641973c5c82c2d67ea5799be34b",
                     "website": "https://ubuntu-mate.org/download/amd64/jammy"
-                 }
+                }
                 ]
-               }
-              ]
-             },
-            {
+                },
+                {
+                    "name": "Kali Linux",
+                    "description": "The most advanced Penetration Testing Distribution",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "subitems": [
+                {
+                    "name": "Kali Linux 2022.2",
+                    "description": "64-bit desktop OS",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "url": "https://cdimage.kali.org/kali-2022.2/kali-linux-2022.2-installer-amd64.iso",
+                    "image_download_size": 2944139264,
+                    "release_date": "2022-05-05",
+                    "image_download_sha256": "fa28a2cd45f43e654db0aaf4856f505fd721de44bc3c4b7e8e823919899156e0",
+                    "website": "https://www.kali.org/get-kali"
+                },   
+                {
+                    "name": "Kali Linux 2022.2",
+                    "description": "32-bit desktop OS",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+                    "url": "https://cdimage.kali.org/kali-2022.2/kali-linux-2022.2-installer-i386.iso",
+                    "image_download_size": 2587770880,
+                    "release_date": "2022-05-05",
+                    "image_download_sha256": "0f3351282a25567b48110e291b22c4ed80171c4eefb7549c85e39b8baa0a6ec1",
+                    "website": "https://www.kali.org/get-kali"
+                }
+                ]
+                }
+                ]
+                },
+                {
             "name": "Raspberry Pi",
             "description": "Operating system for Raspberry Pi",
             "icon": "icons/cat_raspberry_pi_os.png",
