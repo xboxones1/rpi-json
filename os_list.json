@@ -4,7 +4,36 @@
         "url": "https://www.raspberrypi.org/software/"
     },
     "os_list": [
-        {
+            {
+            "name": "Desktop PC",
+            "description": "Operating system for Desktop PC",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/desktop.png",
+            "subitems": [
+                {
+                    "name": "Ubuntu Mate",
+                    "description": "For a retrospective future",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
+                    "subitems": [
+                {
+                    "name": "Ubuntu Mate 22.04",
+                    "description": "64-bit desktop OS",
+                    "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
+                    "url": "https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/release/ubuntu-mate-22.04-desktop-amd64.iso",
+                    "image_download_size": 2918014976,
+                    "release_date": "2022-03-29",
+                    "image_download_sha256": "c441ba839ccaff67e27c15423da006dc7b708641973c5c82c2d67ea5799be34b",
+                    "website": "https://ubuntu-mate.org/download/amd64/jammy"
+                 }
+                ]
+               }
+              ]
+             },
+            {
+            "name": "Raspberry Pi",
+            "description": "Operating system for Raspberry Pi",
+            "icon": "icons/cat_raspberry_pi_os.png",
+            "subitems": [
+                {
             "name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian Bullseye with the Raspberry Pi Desktop (Recommended)",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
@@ -444,4 +473,6 @@
             ]
         }
     ]
+}
+]
 }
