@@ -125,21 +125,21 @@
             "icon": "icons/cat_raspberry_pi_os.png",
             "subitems": [
                 {
-            "name": "Raspberry Pi OS (32-bit)",
-            "description": "A port of Debian Bullseye with the Raspberry Pi Desktop (Recommended)",
-            "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf.img.xz",
-            "extract_size": 4324327424,
-            "extract_sha256": "5de7c7a0d08ab575d4246ec585419278a6fb79752df6416a448711b755bb742a",
-            "image_download_size": 877875272,
-            "release_date": "2022-04-04",
-            "init_format": "systemd"
-        },
-        {
-            "name": "Raspberry Pi OS (other)",
+            "name": "Raspberry Pi OS",
             "description": "Other Raspberry Pi OS based images",
             "icon": "icons/cat_raspberry_pi_os.png",
             "subitems": [
+                {
+                    "name": "Raspberry Pi OS (32-bit)",
+                    "description": "A port of Debian Bullseye with the Raspberry Pi Desktop (Recommended)",
+                    "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
+                    "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2022-04-07/2022-04-04-raspios-bullseye-armhf.img.xz",
+                    "extract_size": 4324327424,
+                    "extract_sha256": "5de7c7a0d08ab575d4246ec585419278a6fb79752df6416a448711b755bb742a",
+                    "image_download_size": 877875272,
+                    "release_date": "2022-04-04",
+                    "init_format": "systemd"
+                },
                 {
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian Bullseye with no desktop environment",
