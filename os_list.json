@@ -79,6 +79,43 @@
                     "website": "https://www.kali.org/get-kali"
                 }
                 ]
+                },
+                {
+                    "name": "Manjaro",
+                    "description": "Semi-rolling distribution for desktop and server use",
+                    "icon": "https://www.strits.dk/images/40x40.png",
+                    "subitems": [
+                {
+                    "name": "Manjaro KDE Plasma 21.3.2",
+                    "description": "64-bit desktop OS with KDE Plasma desktop",
+                    "icon": "https://www.strits.dk/images/40x40.png",
+                    "url": "https://download.manjaro.org/kde/21.3.2/manjaro-kde-21.3.2-minimal-220704-linux515.iso",
+                    "image_download_size": 2904444928,
+                    "release_date": "2022-07-04",
+                    "image_download_sha256": "8d51f2bdd721f6b9d08574a5578d051070c092e1faf0a7114d3108ac058fe6c4",
+                    "website": "https://manjaro.org/download/"
+                },   
+                {
+                    "name": "Manjaro XFCE 21.3.2",
+                    "description": "64-bit desktop OS with XFCE desktop",
+                    "icon": "https://www.strits.dk/images/40x40.png",
+                    "url": "https://download.manjaro.org/xfce/21.3.2/manjaro-xfce-21.3.2-minimal-220704-linux515.iso",
+                    "image_download_size": 2649620480,
+                    "release_date": "2022-07-04",
+                    "image_download_sha256": "2431d0fa7a2ef0f5e0955a2de6d9a1446425020299be759bd81a042bc08498ae",
+                    "website": "https://manjaro.org/download/"
+                },
+                {
+                    "name": "Manjaro GNOME 21.3.2",
+                    "description": "64-bit desktop OS with GNOME desktop",
+                    "icon": "https://www.strits.dk/images/40x40.png",
+                    "url": "https://download.manjaro.org/gnome/21.3.2/manjaro-gnome-21.3.2-minimal-220704-linux515.iso",
+                    "image_download_size": 2818527232,
+                    "release_date": "2022-07-04",
+                    "image_download_sha256": "4113f6c5cfb0b023a5ab4503e8dceb456920d36df6c436cf6d671d00cef8e809",
+                    "website": "https://manjaro.org/download/"
+                }
+                ]
                 }
                 ]
                 },
