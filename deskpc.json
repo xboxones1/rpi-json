@@ -1,0 +1,156 @@
+{
+    "os_list": [
+        {
+            "name": "Ubuntu",
+            "description": "Choose from Ubuntu Desktop, Server images",
+            "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+            "subitems": [
+        {
+            "name": "Ubuntu 22.04 LTS Jammy",
+            "description": "64-bit desktop OS",
+            "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+            "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.iso",
+            "image_download_size": 3654957056,
+            "release_date": "2022-04-19",
+            "image_download_sha256": "b85286d9855f549ed9895763519f6a295a7698fb9c5c5345811b3eefadfb6f07",
+            "website": "https://releases.ubuntu.com/22.04"
+        },
+        {
+            "name": "Ubuntu 22.04 LTS Server Jammy",
+            "description": "64-bit server OS",
+            "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+            "url": "https://releases.ubuntu.com/22.04/ubuntu-22.04-live-server-amd64.iso",
+            "image_download_size": 1466714112,
+            "release_date": "2022-04-19",
+            "image_download_sha256": "84aeaf7823c8c61baa0ae862d0a06b03409394800000b3235854a6b38eb4856f",
+            "website": "https://releases.ubuntu.com/22.04"    
+        }
+        ]    
+        },
+        {
+            "name": "Ubuntu Mate",
+            "description": "For a retrospective future",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
+            "subitems": [
+                {
+            "name": "Ubuntu Mate 22.04 LTS Jammy",
+            "description": "64-bit desktop OS",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/mate.png",
+            "url": "https://cdimage.ubuntu.com/ubuntu-mate/releases/22.04/release/ubuntu-mate-22.04-desktop-amd64.iso",
+            "image_download_size": 2918014976,
+            "release_date": "2022-03-29",
+            "image_download_sha256": "c441ba839ccaff67e27c15423da006dc7b708641973c5c82c2d67ea5799be34b",
+            "website": "https://ubuntu-mate.org/download/amd64/jammy"
+        }
+        ]
+        },
+        {
+            "name": "Kali Linux",
+            "description": "The most advanced Penetration Testing Distribution",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+            "subitems": [
+        {
+            "name": "Kali Linux 2022.2",
+            "description": "64-bit desktop OS",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+            "url": "https://cdimage.kali.org/kali-2022.2/kali-linux-2022.2-installer-amd64.iso",
+            "image_download_size": 2944139264,
+            "release_date": "2022-05-05",
+            "image_download_sha256": "fa28a2cd45f43e654db0aaf4856f505fd721de44bc3c4b7e8e823919899156e0",
+            "website": "https://www.kali.org/get-kali"
+        },   
+         {
+            "name": "Kali Linux 2022.2",
+            "description": "32-bit desktop OS",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/kali.png",
+            "url": "https://cdimage.kali.org/kali-2022.2/kali-linux-2022.2-installer-i386.iso",
+            "image_download_size": 2587770880,
+            "release_date": "2022-05-05",
+            "image_download_sha256": "0f3351282a25567b48110e291b22c4ed80171c4eefb7549c85e39b8baa0a6ec1",
+            "website": "https://www.kali.org/get-kali"
+        }
+        ]
+        },
+        {
+            "name": "Manjaro",
+            "description": "Semi-rolling distribution for desktop and server use",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "subitems": [
+        {
+            "name": "Manjaro KDE Plasma 21.3.2",
+            "description": "64-bit desktop OS with KDE Plasma desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/kde/21.3.2/manjaro-kde-21.3.2-minimal-220704-linux515.iso",
+            "image_download_size": 2904444928,
+            "release_date": "2022-07-04",
+            "image_download_sha256": "8d51f2bdd721f6b9d08574a5578d051070c092e1faf0a7114d3108ac058fe6c4",
+            "website": "https://manjaro.org/download/"
+        },   
+        {
+            "name": "Manjaro XFCE 21.3.2",
+            "description": "64-bit desktop OS with XFCE desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/xfce/21.3.2/manjaro-xfce-21.3.2-minimal-220704-linux515.iso",
+            "image_download_size": 2649620480,
+            "release_date": "2022-07-04",
+            "image_download_sha256": "2431d0fa7a2ef0f5e0955a2de6d9a1446425020299be759bd81a042bc08498ae",
+            "website": "https://manjaro.org/download/"
+        },
+        {
+            "name": "Manjaro GNOME 21.3.2",
+            "description": "64-bit desktop OS with GNOME desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/gnome/21.3.2/manjaro-gnome-21.3.2-minimal-220704-linux515.iso",
+            "image_download_size": 2818527232,
+            "release_date": "2022-07-04",
+            "image_download_sha256": "4113f6c5cfb0b023a5ab4503e8dceb456920d36df6c436cf6d671d00cef8e809",
+            "website": "https://manjaro.org/download/"
+        }
+        ]
+        },
+        {
+            "name": "Fedora",
+            "description": "Choose from Fedora Workstation, Server images",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
+            "subitems": [
+        {
+            "name": "Fedora 36 Workstation",
+            "description": "64-bit desktop OS with GNOME desktop",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
+            "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso",
+            "image_download_size": 2018148352,
+            "release_date": "2022-05-04",
+            "image_download_sha256": "80169891cb10c679cdc31dc035dab9aae3e874395adc5229f0fe5cfcc111cc8c",
+            "website": "https://getfedora.org/"
+        },
+        { 
+            "name": "Fedora Server",
+            "description": "Choose from Server images, Server images Netinstall ",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
+            "subitems": [
+        {
+            "name": "Fedora 36 Server",
+            "description": "64-bit server OS",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
+            "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-dvd-x86_64-36-1.5.iso",
+            "image_download_size": 2357198848,
+            "release_date": "2022-05-04",
+            "image_download_sha256": "5edaf708a52687b09f9810c2b6d2a3432edac1b18f4d8c908c0da6bde0379148",
+            "website": "https://getfedora.org/"
+        },
+        {    
+            "name": "Fedora 36 Server Netinstall",
+            "description": "64-bit server OS",
+            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
+            "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/x86_64/iso/Fedora-Server-netinst-x86_64-36-1.5.iso",
+            "image_download_size": 702545920,
+            "release_date": "2022-05-04",
+            "image_download_sha256": "421c4c6e23d72e4669a55e7710562287ecd9308b3d314329960f586b89ccca19",
+            "website": "https://getfedora.org/"
+        }
+        ]
+        }
+        ]
+        }
+        ]
+        }
