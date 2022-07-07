@@ -170,7 +170,7 @@
             "subitems": [
                 {
             "name": "Raspberry Pi OS",
-            "description": "Other Raspberry Pi OS based images",
+            "description": "Debian-based operating system for Raspberry Pi",
             "icon": "icons/cat_raspberry_pi_os.png",
             "subitems": [
                 {
