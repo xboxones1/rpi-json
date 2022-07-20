@@ -82,7 +82,7 @@
             "icon": "https://www.strits.dk/images/40x40.png",
             "url": "https://download.manjaro.org/kde/21.3.4/manjaro-kde-21.3.4-minimal-220718-linux515.iso",
             "image_download_size": 2885302272,
-            "release_date": "2022-07-15",
+            "release_date": "2022-07-18",
             "image_download_sha256": "cb5e30336aad0e9aa1541417c83fd88815620fdb6c12692a224d15c028e61ba4",
             "website": "https://manjaro.org/download/"
         },   
@@ -104,6 +104,36 @@
             "image_download_size": 2794506240,
             "release_date": "2022-07-18",
             "image_download_sha256": "5b65ee3d21f88bc7541c00e7f3479e68dfb3a5b7e73212b3330105a017d0704b",
+            "website": "https://manjaro.org/download/"
+        },
+        {
+            "name": "Manjaro Budgie 21.3.0",
+            "description": "64-bit desktop OS with Budgie desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/budgie/21.3.0/manjaro-budgie-21.3.0-minimal-220619-linux515.iso",
+            "image_download_size": 2697846784,
+            "release_date": "2022-06-19",
+            "image_download_sha256": "b48686b6931ab3115f65b3d9f4dc40a67db336a481cd5bdeac41b1ed9fac7a58",
+            "website": "https://manjaro.org/download/"
+        },
+        {
+            "name": "Manjaro Cinnamon 21.3.0",
+            "description": "64-bit desktop OS with Cinnamon desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/cinnamon/21.3.0/manjaro-cinnamon-21.3.0-minimal-220619-linux515.iso",
+            "image_download_size": 2361483264,
+            "release_date": "2022-06-19",
+            "image_download_sha256": "6f0947c4b1709489c168a70e28ca4a974e2357a72128ce8f6abb5ed50b11a0db",
+            "website": "https://manjaro.org/download/"
+        },
+        {
+            "name": "Manjaro Mate 21.3.0",
+            "description": "64-bit desktop OS with Mate desktop",
+            "icon": "https://www.strits.dk/images/40x40.png",
+            "url": "https://download.manjaro.org/mate/21.3.0/manjaro-mate-21.3.0-minimal-220619-linux515.iso",
+            "image_download_size": 2346598400,
+            "release_date": "2022-06-19",
+            "image_download_sha256": "efefa500bd4637e9b2664c2cb75157223c51087e0b519135db2dbfcd887c477b",
             "website": "https://manjaro.org/download/"
         }
         ]
