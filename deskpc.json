@@ -124,11 +124,6 @@
             "website": "https://getfedora.org/"
         },
         { 
-            "name": "Fedora Server",
-            "description": "Choose from Server images, Server images Netinstall ",
-            "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
-            "subitems": [
-        {
             "name": "Fedora 36 Server",
             "description": "64-bit server OS",
             "icon": "https://github.com/xboxones1/rpi-json/raw/main/icon/fedora.png",
@@ -147,8 +142,6 @@
             "release_date": "2022-05-04",
             "image_download_sha256": "421c4c6e23d72e4669a55e7710562287ecd9308b3d314329960f586b89ccca19",
             "website": "https://getfedora.org/"
-        }
-        ]
         }
         ]
         }
